@@ -1,0 +1,50 @@
+body{
+    font-family: 'Spline Sans', sans-serif;
+    margin: 0;
+
+}
+.header-area-top{
+    display: flex;
+    
+    padding-left: 50px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+.oreng{
+    color: orange;
+}
+.header-text{
+    width: 100%;
+}
+.header-text h1{
+    font-size: 60px;
+}
+
+.header-text h2{
+    font-size: 50px;
+}
+
+.header-text h5{
+    font-size: 20px;
+}
+
+.header-text p{}
+.header-text a{
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 20px;
+}
+
+.header-img{
+    width: 100%;
+    padding-left: 200px;
+    
+}
+.header-img img{
+    width: 100%;
+}
